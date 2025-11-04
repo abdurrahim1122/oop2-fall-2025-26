@@ -1,0 +1,2 @@
+D:\private\hello\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\private\hello\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
