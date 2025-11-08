@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\private\\hello\\Task2\\Task2\\Task2.csproj": {}
+    "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task2\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "D:\\private\\hello\\Task2\\Task2\\Task2.csproj": {
+    "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task2\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\private\\hello\\Task2\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task2\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "D:\\private\\hello\\Task2\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task2\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\abdur\\.nuget\\packages\\",
-        "outputPath": "D:\\private\\hello\\Task2\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task2\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdur\\AppData\\Roaming\\NuGet\\NuGet.Config",

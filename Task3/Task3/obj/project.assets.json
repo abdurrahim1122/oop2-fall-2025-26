@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\private\\hello\\Task3\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task3\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "D:\\private\\hello\\Task3\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task3\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\abdur\\.nuget\\packages\\",
-      "outputPath": "D:\\private\\hello\\Task3\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task3\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
