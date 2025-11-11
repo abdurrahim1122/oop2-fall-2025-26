@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\private\\Mortgage_Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Mortgage_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B47DCE7-E880-49D0-8181-52A9FCE23DBD}|Mortgage_Calculator\\Mortgage_Calculator.csproj|d:\\private\\mortgage_calculator\\mortgage_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B47DCE7-E880-49D0-8181-52A9FCE23DBD}|Mortgage_Calculator\\Mortgage_Calculator.csproj|c:\\users\\abdur\\onedrive\\documents\\developer\\oop2-fall-2025-26\\mortgage_calculator\\mortgage_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B47DCE7-E880-49D0-8181-52A9FCE23DBD}|Mortgage_Calculator\\Mortgage_Calculator.csproj|solutionrelative:mortgage_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\private\\Mortgage_Calculator\\Mortgage_Calculator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Mortgage_Calculator\\Mortgage_Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Mortgage_Calculator\\Program.cs",
-              "ToolTip": "D:\\private\\Mortgage_Calculator\\Mortgage_Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Mortgage_Calculator\\Mortgage_Calculator\\Program.cs",
               "RelativeToolTip": "Mortgage_Calculator\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T07:26:56.928Z",
               "EditorCaption": ""

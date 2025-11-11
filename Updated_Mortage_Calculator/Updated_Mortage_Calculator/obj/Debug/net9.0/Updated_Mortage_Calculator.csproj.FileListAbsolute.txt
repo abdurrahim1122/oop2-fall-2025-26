@@ -1,0 +1,14 @@
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\bin\Debug\net9.0\Updated_Mortage_Calculator.exe
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\bin\Debug\net9.0\Updated_Mortage_Calculator.deps.json
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\bin\Debug\net9.0\Updated_Mortage_Calculator.runtimeconfig.json
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\bin\Debug\net9.0\Updated_Mortage_Calculator.dll
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\bin\Debug\net9.0\Updated_Mortage_Calculator.pdb
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.AssemblyInfoInputs.cache
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.AssemblyInfo.cs
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.csproj.CoreCompileInputs.cache
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.dll
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\refint\Updated_Mortage_Calculator.dll
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.pdb
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\Updated_Mortage_Calculator.genruntimeconfig.cache
+D:\private\Updated_Mortage_Calculator\Updated_Mortage_Calculator\obj\Debug\net9.0\ref\Updated_Mortage_Calculator.dll

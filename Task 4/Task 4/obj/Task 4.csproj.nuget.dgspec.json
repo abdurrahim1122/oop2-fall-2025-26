@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\private\\Task 4\\Task 4\\Task 4.csproj": {}
+    "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task 4\\Task 4\\Task 4.csproj": {}
   },
   "projects": {
-    "D:\\private\\Task 4\\Task 4\\Task 4.csproj": {
+    "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task 4\\Task 4\\Task 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\private\\Task 4\\Task 4\\Task 4.csproj",
+        "projectUniqueName": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task 4\\Task 4\\Task 4.csproj",
         "projectName": "Task 4",
-        "projectPath": "D:\\private\\Task 4\\Task 4\\Task 4.csproj",
+        "projectPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task 4\\Task 4\\Task 4.csproj",
         "packagesPath": "C:\\Users\\abdur\\.nuget\\packages\\",
-        "outputPath": "D:\\private\\Task 4\\Task 4\\obj\\",
+        "outputPath": "C:\\Users\\abdur\\OneDrive\\Documents\\developer\\oop2-fall-2025-26\\Task 4\\Task 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdur\\AppData\\Roaming\\NuGet\\NuGet.Config",

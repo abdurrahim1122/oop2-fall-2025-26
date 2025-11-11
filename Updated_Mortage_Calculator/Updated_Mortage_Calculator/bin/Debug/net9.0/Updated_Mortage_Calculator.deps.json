@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Updated_Mortage_Calculator/1.0.0": {
+        "runtime": {
+          "Updated_Mortage_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Updated_Mortage_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
